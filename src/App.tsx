@@ -1,5 +1,4 @@
-import { Box, Paper, Typography } from "@mui/material"
-import ThemeSwitcher from "./components/ThemeSwitcher"
+
 
 function App() {
 
@@ -7,13 +6,7 @@ function App() {
     <>
       <div>
         
-          <ThemeSwitcher />
-
-          <Paper>
-            <Box>
-              <Typography>Hello World</Typography>
-            </Box>
-          </Paper>
+          <h1>Hello World</h1>
 
       </div>
     </>
